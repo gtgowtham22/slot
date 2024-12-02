@@ -28,8 +28,8 @@ Execute the program using runserver command.
 <html>
     <img src="logo.png">
     <body>
-        <table border="1" cellspacing="15" cellpadding="2">
-            <caption>Timetable</caption>
+        <table border="1" cellspacing="18" cellpadding="2">
+            <caption>TIMETABLE.        REGISTER NUMBER:24901330      NAME:G.T.GOWTHAM</caption>
             <tr bgcolor="cyan">
                 <th>DAY</th>
                 <th>MONDAY</th>
@@ -65,7 +65,7 @@ Execute the program using runserver command.
             <tr>
                 <td>1-3</td>
                 <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
-                <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT/td>
+                <td>FUNDAMENTALS OF WEB APPLICATION DEVELOPMENT</td>
                 <td>FREE SLOT</td>
                 <td>CAREER DEVELOPMENT</td>
                 <td>DIGITAL ELECTRONICS</td>
@@ -118,6 +118,7 @@ Execute the program using runserver command.
         </table>
     </body>
 </html>
+
 
 ```
 ## OUTPUT
